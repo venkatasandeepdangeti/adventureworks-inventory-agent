@@ -1,5 +1,7 @@
 # AdventureWorks Inventory & Restocking Agent
 
+**🔗 Live demo (no setup required): https://adventureworks-inventory-agent.streamlit.app/**
+
 Ask a question in plain English about inventory, restocking, vendors, or purchasing — get back the generated SQL, the result, and a one-sentence explanation. Built on **real data** from Microsoft's official [AdventureWorks sample database](https://github.com/microsoft/sql-server-samples), not synthetic data.
 
 Part of the same agent-building approach as [autoanalyst](https://github.com/venkatasandeepdangeti/agentasdataanalyst)'s NL-to-SQL agent, applied to a dataset that's instantly recognizable to anyone who's worked in BI/data analytics.
